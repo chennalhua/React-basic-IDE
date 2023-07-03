@@ -9,7 +9,7 @@ const Blog = () => {
                     <Helmet>
                         <title>React Helmet Asyc example</title>
                         <link rel="canonical" href="https://www.url.com/" />
-                        <meta keywords=" seo keywords" />
+                        <meta keywords="seo keywords" />
                         <meta description=" website description" />
                         <meta property="og:image" content="/metaBlog/travel_NO.1_S.jpg" />
                         <meta property="og:image:alt" content="文章說明" />
